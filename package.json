@@ -1,0 +1,27 @@
+{
+  "name": "hacker",
+  "version": "1.0.0",
+  "description": "Github contribution chart",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bittu-26/Hacker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bittu-26/Hacker/issues"
+  },
+  "homepage": "https://github.com/Bittu-26/Hacker#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.30.0"
+  }
+}
